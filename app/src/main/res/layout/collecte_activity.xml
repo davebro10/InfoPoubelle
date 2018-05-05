@@ -7,11 +7,12 @@
     tools:context=".CollecteActivity">
 
     <Spinner
-        android:id="@+id/spinner"
-        android:layout_width="184dp"
-        android:layout_height="24dp"
+        android:id="@+id/droplist"
+        android:layout_width="160dp"
+        android:layout_height="40dp"
         android:layout_marginStart="88dp"
         android:layout_marginTop="48dp"
+        android:background="@android:drawable/btn_dropdown"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 </android.support.constraint.ConstraintLayout>
