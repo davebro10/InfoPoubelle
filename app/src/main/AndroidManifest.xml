@@ -28,7 +28,7 @@
             android:resource="@array/preloaded_fonts" />
 
         <activity android:name=".CollecteActivity"></activity>
-        <activity android:name=".TexteRechecheActivity" />
+        <activity android:name=".FormulaireActivity"/>
         <activity android:name=".TexteRechercheActivity"></activity>
     </application>
 

@@ -72,6 +72,9 @@ public class AccueilActivity extends AppCompatActivity {
                             case R.id.nav_Recherche:
                                 Intent intentRecherche = new Intent(AccueilActivity.this, TexteRechercheActivity.class);
                                 startActivity(intentRecherche);
+                            case R.id.nav_Formulaire:
+                                Intent intentFormulaire = new Intent(AccueilActivity.this, FormulaireActivity.class);
+                                startActivity(intentFormulaire);
                         }
 
                         // close drawer when item is tapped
