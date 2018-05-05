@@ -66,17 +66,16 @@ public class AccueilActivity extends AppCompatActivity {
                         switch (menuItem.getItemId())
                         {
                             case R.id.nav_Informations:
-                                Intent intent = new Intent(AccueilActivity.this, CollecteActivity.class);
-                                startActivity(intent);
+                                Intent intentInformations = new Intent(AccueilActivity.this, CollecteActivity.class);
+                                startActivity(intentInformations);
                                 break;
+                            case R.id.nav_Recherche:
+                                Intent intentRecherche = new Intent(AccueilActivity.this, TexteRechercheActivity.class);
+                                startActivity(intentRecherche);
                         }
 
                         // close drawer when item is tapped
                         mDrawerLayout.closeDrawers();
-
-                        // Add code here to update the UI based on the item selected
-                        // For example, swap UI fragments here
-
                         return true;
                     }
                 });
