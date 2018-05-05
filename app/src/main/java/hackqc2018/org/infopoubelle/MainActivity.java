@@ -1,7 +1,7 @@
 package hackqc2018.org.infopoubelle;
 
 import android.content.Intent;
-import android.support.design.widget.TextInputLayout;
+import android.support.design.widget.TextInputEditText;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
@@ -20,9 +20,12 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void connexion(View view){
-        //TextInputLayout nomUsage = findViewById(R.id.nomUsage);
-        //TextInputLayout mdpUsage = findViewById(R.id.mdpUsage);
+        TextInputEditText nomUsage = findViewById(R.id.nomUsage);
+        TextInputEditText mdpUsage = findViewById(R.id.mdpUsage);
+        if((nomUsage.getText().toString().equals(nomCitoyent) && mdpUsage.getText().toString().equals(mdpCitoyent))
+           || (nomUsage.getText().toString().equals(nomVille) && mdpUsage.getText().toString().equals(mdpVille) )) {
             Intent intent = new Intent(this, AccueilActivity.class);
             startActivity(intent);
+        }
     }
 }

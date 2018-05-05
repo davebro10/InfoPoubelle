@@ -69,7 +69,8 @@
             android:elegantTextHeight="false"
             android:hint="Nom d'usager"
             android:maxLines="1"
-            android:singleLine="true" />
+            android:singleLine="true"
+            tools:id="nomUsager" />
     </android.support.design.widget.TextInputLayout>
 
     <android.support.design.widget.TextInputLayout
