@@ -22,9 +22,7 @@ public class MainActivity extends AppCompatActivity {
     public void connexion(View view){
         //TextInputLayout nomUsage = findViewById(R.id.nomUsage);
         //TextInputLayout mdpUsage = findViewById(R.id.mdpUsage);
-        //if((nomUsage.getEditText().getText().toString() == nomCitoyent) && (mdpUsage.getEditText().getText().toString() == mdpCitoyent)) {
             Intent intent = new Intent(this, AccueilActivity.class);
             startActivity(intent);
-       // }
     }
 }
