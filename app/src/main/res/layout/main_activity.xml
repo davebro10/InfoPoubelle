@@ -63,10 +63,11 @@
         app:layout_constraintTop_toBottomOf="@+id/textView">
 
         <android.support.design.widget.TextInputEditText
+            android:id="@+id/nomUsage"
             android:layout_width="234dp"
             android:layout_height="wrap_content"
             android:elegantTextHeight="false"
-            android:hint="Nom d'usagé"
+            android:hint="Nom d'usager"
             android:maxLines="1"
             android:singleLine="true" />
     </android.support.design.widget.TextInputLayout>
@@ -84,9 +85,10 @@
         app:layout_constraintTop_toBottomOf="@+id/textInputLayout">
 
         <android.support.design.widget.TextInputEditText
+            android:id="@+id/mdpUsage"
             android:layout_width="match_parent"
             android:layout_height="57dp"
-            android:hint="mot de passe"
+            android:hint="Mot de passe"
             android:maxLines="1"
             android:password="true"
             android:singleLine="true" />
@@ -99,6 +101,7 @@
         android:layout_marginEnd="8dp"
         android:layout_marginStart="8dp"
         android:layout_marginTop="48dp"
+        android:onClick="connexion"
         android:text="Connexion"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.502"
