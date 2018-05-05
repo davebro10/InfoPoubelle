@@ -93,6 +93,4 @@ public class AccueilActivity extends AppCompatActivity {
         }
         return super.onOptionsItemSelected(item);
     }
-
-
 }

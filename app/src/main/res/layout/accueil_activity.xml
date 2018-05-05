@@ -23,12 +23,19 @@
         <TextView
             android:id="@+id/lblWelcome"
             android:layout_width="match_parent"
-            android:layout_height="61dp"
+            android:layout_height="152dp"
             android:fontFamily="@font/lemon"
             android:paddingRight="12dp"
+            android:paddingTop="12dp"
             android:text="TextView"
             android:textAlignment="viewEnd"
             android:textSize="18sp" />
+
+        <ImageView
+            android:id="@+id/imageView2"
+            android:layout_width="match_parent"
+            android:layout_height="299dp"
+            app:srcCompat="@drawable/img_dechets" />
 
     </LinearLayout>
 
