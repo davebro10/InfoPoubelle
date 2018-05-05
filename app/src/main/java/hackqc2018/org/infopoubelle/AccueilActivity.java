@@ -9,6 +9,7 @@ import android.os.Bundle;
 import android.support.v7.widget.Toolbar;
 import android.view.MenuItem;
 import android.view.View;
+import android.widget.TextView;
 
 public class AccueilActivity extends AppCompatActivity {
     private DrawerLayout mDrawerLayout;
@@ -17,6 +18,9 @@ public class AccueilActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.accueil_activity);
+
+        TextView lblWelcome = findViewById(R.id.lblWelcome);
+        lblWelcome.setText("Bonjour Denis");
 
         Toolbar toolbar = findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
@@ -77,4 +81,6 @@ public class AccueilActivity extends AppCompatActivity {
         }
         return super.onOptionsItemSelected(item);
     }
+
+
 }

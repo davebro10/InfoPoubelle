@@ -2,20 +2,17 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android" >
     <group android:checkableBehavior="single">
         <item
-            android:id="@+id/nav_camera"
-            android:icon="@drawable/ic_action_menu"
-            android:title="@string/app_name" />
+            android:id="@+id/nav_Recherche"
+            android:icon="@drawable/ic_search_black"
+            android:title="@string/app_recherche" />
         <item
-            android:id="@+id/nav_gallery"
-            android:icon="@drawable/ic_action_menu"
-            android:title="@string/app_name" />
+            android:id="@+id/nav_Informations"
+            android:icon="@drawable/ic_infos_black"
+            android:title="@string/app_informations" />
         <item
-            android:id="@+id/nav_slideshow"
-            android:icon="@drawable/ic_action_menu"
-            android:title="@string/app_name" />
-        <item
-            android:id="@+id/nav_manage"
-            android:icon="@drawable/ic_action_menu"
-            android:title="@string/app_name" />
+            android:id="@+id/nav_Formulaire"
+            android:icon="@drawable/ic_form_black"
+            android:title="@string/app_formulaire"
+            />
     </group>
 </menu>
