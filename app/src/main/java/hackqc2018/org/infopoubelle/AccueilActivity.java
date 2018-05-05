@@ -1,5 +1,6 @@
 package hackqc2018.org.infopoubelle;
 
+import android.content.Intent;
 import android.support.design.widget.NavigationView;
 import android.support.v4.view.GravityCompat;
 import android.support.v4.widget.DrawerLayout;
@@ -61,6 +62,15 @@ public class AccueilActivity extends AppCompatActivity {
                     public boolean onNavigationItemSelected(MenuItem menuItem) {
                         // set item as selected to persist highlight
                         menuItem.setChecked(true);
+
+                        switch (menuItem.getItemId())
+                        {
+                            case R.id.nav_Informations:
+                                Intent intent = new Intent(AccueilActivity.this, CollecteActivity.class);
+                                startActivity(intent);
+                                break;
+                        }
+
                         // close drawer when item is tapped
                         mDrawerLayout.closeDrawers();
 
