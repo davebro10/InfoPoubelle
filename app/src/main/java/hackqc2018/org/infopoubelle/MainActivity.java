@@ -9,9 +9,9 @@ import android.view.View;
 public class MainActivity extends AppCompatActivity {
 
     final String nomCitoyent = "denis";
-    final String mdpCitoyent = "Skynet";
+    final String mdpCitoyent = "123";
     final String nomVille    = "Mike";
-    final String mdpVille    = "Beatrice";
+    final String mdpVille    = "123";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
