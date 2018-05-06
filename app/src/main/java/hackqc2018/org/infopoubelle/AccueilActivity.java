@@ -94,6 +94,12 @@ public class AccueilActivity extends AppCompatActivity {
                                     startActivity(intentFormulaire);
                                 }
                                 break;
+                            case R.id.nav_Deconnexion:
+                                usage = "";
+                                type = false;
+                                Intent intentDeconnexion = new Intent(AccueilActivity.this, MainActivity.class);
+                                startActivity(intentDeconnexion);
+                                break;
                         }
 
                         // close drawer when item is tapped

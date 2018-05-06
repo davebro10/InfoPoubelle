@@ -17,5 +17,9 @@
             android:id="@+id/nav_Formulaire"
             android:icon="@drawable/ic_form_black"
             android:title="Formulaire" />
+        <item
+            android:id="@+id/nav_Deconnexion"
+            android:icon="@drawable/ic_form_black"
+            android:title="Déconnexion" />
     </group>
 </menu>
