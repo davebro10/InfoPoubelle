@@ -84,8 +84,12 @@ public class AccueilActivity extends AppCompatActivity {
                                 Intent intentInformations = new Intent(AccueilActivity.this, CollecteActivity.class);
                                 startActivity(intentInformations);
                                 break;
+                            case R.id.nav_RechercheTexte:
+                                Intent intentRechercheTexte = new Intent(AccueilActivity.this, TexteRechercheActivity.class);
+                                startActivity(intentRechercheTexte);
+                                break;
                             case R.id.nav_Recherche:
-                                Intent intentRecherche = new Intent(AccueilActivity.this, TexteRechercheActivity.class);
+                                Intent intentRecherche = new Intent(AccueilActivity.this, ImageRechercheActivity.class);
                                 startActivity(intentRecherche);
                                 break;
                             case R.id.nav_Formulaire:

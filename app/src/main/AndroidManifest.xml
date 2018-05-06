@@ -3,9 +3,11 @@
     package="hackqc2018.org.infopoubelle">
 
     <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
 
-    <uses-feature android:name="android.hardware.camera"
-                  android:required="true"/>
+    <uses-feature
+        android:name="android.hardware.camera"
+        android:required="true" />
 
     <application
         android:allowBackup="true"
@@ -25,11 +27,13 @@
 
         <meta-data
             android:name="preloaded_fonts"
-            android:resource="@array/preloaded_fonts"
-            android:parentActivityName=".MainActivity" />
-        <activity android:name=".CollecteActivity"></activity>
-        <activity android:name=".TexteRechercheActivity"></activity>
-        <activity android:name=".FormulaireActivity"/>
+            android:parentActivityName=".MainActivity"
+            android:resource="@array/preloaded_fonts" />
+
+        <activity android:name=".CollecteActivity" />
+        <activity android:name=".TexteRechercheActivity" />
+        <activity android:name=".FormulaireActivity" />
+        <activity android:name=".ImageRechercheActivity"></activity>
     </application>
 
 </manifest>
