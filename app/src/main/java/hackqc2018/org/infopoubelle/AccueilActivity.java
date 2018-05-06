@@ -8,12 +8,15 @@ import android.support.v7.app.ActionBar;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.support.v7.widget.Toolbar;
+import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
 import android.widget.TextView;
 
 public class AccueilActivity extends AppCompatActivity {
     private DrawerLayout mDrawerLayout;
+    private String usage;
+    private boolean type;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -21,7 +24,12 @@ public class AccueilActivity extends AppCompatActivity {
         setContentView(R.layout.accueil_activity);
 
         TextView lblWelcome = findViewById(R.id.lblWelcome);
-        lblWelcome.setText("Bonjour Denis");
+
+        Intent meSelf = getIntent();
+        usage = meSelf.getStringExtra("nom");
+        type  = meSelf.getBooleanExtra("type", false);
+
+        lblWelcome.setText("Bonjour " + usage);
 
         Toolbar toolbar = findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
@@ -51,11 +59,18 @@ public class AccueilActivity extends AppCompatActivity {
                     @Override
                     public void onDrawerStateChanged(int newState) {
                         // Respond when the drawer motion state changes
+
                     }
                 }
         );
 
         NavigationView navigationView = findViewById(R.id.navigation_view);
+
+        if(type == false) {
+            Menu nav_menu = navigationView.getMenu();
+            nav_menu.findItem(R.id.nav_Formulaire).setVisible(false);
+        }
+
         navigationView.setNavigationItemSelectedListener(
                 new NavigationView.OnNavigationItemSelectedListener() {
                     @Override
@@ -74,8 +89,10 @@ public class AccueilActivity extends AppCompatActivity {
                                 startActivity(intentRecherche);
                                 break;
                             case R.id.nav_Formulaire:
-                                Intent intentFormulaire = new Intent(AccueilActivity.this, FormulaireActivity.class);
-                                startActivity(intentFormulaire);
+                                if(type == true) {
+                                    Intent intentFormulaire = new Intent(AccueilActivity.this, FormulaireActivity.class);
+                                    startActivity(intentFormulaire);
+                                }
                                 break;
                         }
 

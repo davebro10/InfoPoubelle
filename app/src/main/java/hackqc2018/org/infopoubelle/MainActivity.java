@@ -22,10 +22,20 @@ public class MainActivity extends AppCompatActivity {
     public void connexion(View view){
         TextInputEditText nomUsage = findViewById(R.id.nomUsage);
         TextInputEditText mdpUsage = findViewById(R.id.mdpUsage);
-        if((nomUsage.getText().toString().equals(nomCitoyent) && mdpUsage.getText().toString().equals(mdpCitoyent))
-           || (nomUsage.getText().toString().equals(nomVille) && mdpUsage.getText().toString().equals(mdpVille) )) {
+        if((nomUsage.getText().toString().equals(nomCitoyent) && mdpUsage.getText().toString().equals(mdpCitoyent))){
             Intent intent = new Intent(this, AccueilActivity.class);
+            intent.putExtra("nom", nomUsage.getText().toString());
+            intent.putExtra("type", false); //n'est pas un employé de la ville
             startActivity(intent);
+        }
+        else if(nomUsage.getText().toString().equals(nomVille) && mdpUsage.getText().toString().equals(mdpVille) ){
+            Intent intent = new Intent(this, AccueilActivity.class);
+            intent.putExtra("nom", nomUsage.getText().toString());
+            intent.putExtra("type", true); //est un employé de la ville
+            startActivity(intent);
+        }
+        else{
+
         }
     }
 }
