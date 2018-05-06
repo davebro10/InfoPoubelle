@@ -25,8 +25,8 @@
 
         <meta-data
             android:name="preloaded_fonts"
-            android:resource="@array/preloaded_fonts" />
-
+            android:resource="@array/preloaded_fonts"
+            android:parentActivityName=".MainActivity" />
         <activity android:name=".CollecteActivity"></activity>
         <activity android:name=".TexteRechercheActivity"></activity>
         <activity android:name=".FormulaireActivity"/>

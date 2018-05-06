@@ -3,16 +3,19 @@
     <group android:checkableBehavior="single">
         <item
             android:id="@+id/nav_Recherche"
+            android:icon="@drawable/ic_camera"
+            android:title="Rech. par caméra" />
+        <item
+            android:id="@+id/nav_RechercheTexte"
             android:icon="@drawable/ic_search_black"
-            android:title="@string/app_recherche" />
+            android:title="Rech. par mots-clés" />
         <item
             android:id="@+id/nav_Informations"
             android:icon="@drawable/ic_infos_black"
-            android:title="@string/app_informations" />
+            android:title="Info sur le tri" />
         <item
             android:id="@+id/nav_Formulaire"
             android:icon="@drawable/ic_form_black"
-            android:title="@string/app_formulaire"
-            />
+            android:title="Formulaire" />
     </group>
 </menu>
