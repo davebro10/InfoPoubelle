@@ -204,6 +204,8 @@ public class CollecteActivity extends AppCompatActivity {
     }
 
     public void OnClickOk(View view){
+        TableLayout stk = (TableLayout) findViewById(R.id.tabInfo);
+        stk.removeAllViewsInLayout();
         dropdown = findViewById(R.id.droplist);
         ville = dropdown.getSelectedItem().toString();
         Button btnRecup = findViewById(R.id.btnRecup);
@@ -343,7 +345,7 @@ public class CollecteActivity extends AppCompatActivity {
 
         try{
             TableLayout stk = (TableLayout) findViewById(R.id.tabInfo);
-
+            stk.removeAllViewsInLayout();
 
             TableRow tbrow0 = new TableRow(this);
             TextView tv0 = new TextView(this);
@@ -396,6 +398,7 @@ public class CollecteActivity extends AppCompatActivity {
 
         try{
             TableLayout stk = (TableLayout) findViewById(R.id.tabInfo);
+            stk.removeAllViewsInLayout();
             TableRow tbrow0 = new TableRow(this);
             TextView tv0 = new TextView(this);
             tv0.setText(" Catégorie ");
