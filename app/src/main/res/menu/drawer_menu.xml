@@ -19,7 +19,7 @@
             android:title="Formulaire" />
         <item
             android:id="@+id/nav_Deconnexion"
-            android:icon="@drawable/ic_form_black"
+            android:icon="@drawable/ic_fdeconnect"
             android:title="Déconnexion" />
     </group>
 </menu>
