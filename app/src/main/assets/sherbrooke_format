@@ -1,0 +1,479 @@
+{
+  "MATIERES_RESIDUELLES": {
+    "MATIERE_RESIDUELLE": [
+      {
+        "MUNID": "43027",        "MAT_CAT": "Autre",        "MAT_NOM": "Tous produits biomédicaux",        "TYPE_COL": "A",        "DESC_COL": "Autres - Matières spécifiques",        "INFO": "CLSC ou pharmacie. Ex.: seringues, aiguilles, tubulures, etc."
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Autre",        "MAT_NOM": "Vêtements et Autre textiles",        "TYPE_COL": "A",        "DESC_COL": "Autres - Matières spécifiques",        "INFO": "Comptoirs vestimentaires, friperies"
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Autre",        "MAT_NOM": "Objets encombrants",        "TYPE_COL": "S",        "DESC_COL": "Collectes spéciales",        "INFO": null
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Papier et carton",        "MAT_NOM": "Papier essuie-tout",        "TYPE_COL": "C",        "DESC_COL": "Compost - Bac brun",        "INFO": null
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Papier et carton",        "MAT_NOM": "Papier mouchoir",        "TYPE_COL": "C",        "DESC_COL": "Compost - Bac brun",        "INFO": null
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Papier et carton",        "MAT_NOM": "Papier et carton souillés",        "TYPE_COL": "C",        "DESC_COL": "Compost - Bac brun",        "INFO": "Souillés d’aliments, de graisse, d’huile, de peinture, etc."
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Organique",        "MAT_NOM": "Aliments périmés (sans emballage)",        "TYPE_COL": "C",        "DESC_COL": "Compost - Bac brun",        "INFO": null
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Organique",        "MAT_NOM": "Café moulu et filtres",        "TYPE_COL": "C",        "DESC_COL": "Compost - Bac brun",        "INFO": null
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Organique",        "MAT_NOM": "Sachets de thé",        "TYPE_COL": "C",        "DESC_COL": "Compost - Bac brun",        "INFO": null
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Organique",        "MAT_NOM": "Épis de maïs",        "TYPE_COL": "C",        "DESC_COL": "Compost - Bac brun",        "INFO": null
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Organique",        "MAT_NOM": "Friandises et desserts",        "TYPE_COL": "C",        "DESC_COL": "Compost - Bac brun",        "INFO": "Excepté la gomme à mâcher"
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Organique",        "MAT_NOM": "Fruits et légumes",        "TYPE_COL": "C",        "DESC_COL": "Compost - Bac brun",        "INFO": null
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Organique",        "MAT_NOM": "Matières grasses",        "TYPE_COL": "C",        "DESC_COL": "Compost - Bac brun",        "INFO": null
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Organique",        "MAT_NOM": "OEufs et leurs coquilles",        "TYPE_COL": "C",        "DESC_COL": "Compost - Bac brun",        "INFO": null
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Organique",        "MAT_NOM": "Pâtes alimentaires",        "TYPE_COL": "C",        "DESC_COL": "Compost - Bac brun",        "INFO": null
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Organique",        "MAT_NOM": "Pains",        "TYPE_COL": "C",        "DESC_COL": "Compost - Bac brun",        "INFO": null
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Organique",        "MAT_NOM": "Céréales",        "TYPE_COL": "C",        "DESC_COL": "Compost - Bac brun",        "INFO": null
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Organique",        "MAT_NOM": "Produits laitiers",        "TYPE_COL": "C",        "DESC_COL": "Compost - Bac brun",        "INFO": null
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Organique",        "MAT_NOM": "Reste de repas",        "TYPE_COL": "C",        "DESC_COL": "Compost - Bac brun",        "INFO": null
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Organique",        "MAT_NOM": "Viande",        "TYPE_COL": "C",        "DESC_COL": "Compost - Bac brun",        "INFO": "Comprenant les os, la peau, les graisses et les entrailles"
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Organique",        "MAT_NOM": "Volaille",        "TYPE_COL": "C",        "DESC_COL": "Compost - Bac brun",        "INFO": "Comprenant les os, la peau, les graisses et les entrailles"
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Organique",        "MAT_NOM": "Poisson et fruits de mer",        "TYPE_COL": "C",        "DESC_COL": "Compost - Bac brun",        "INFO": "Comprenant les os, la peau, les graisses et les entrailles"
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Organique",        "MAT_NOM": "Branches et petites racines non attachées",        "TYPE_COL": "C",        "DESC_COL": "Compost - Bac brun",        "INFO": "D’une longueur maximale de 60 cm d’une longueur maximale de 60 cm"
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Organique",        "MAT_NOM": "Bran de scie",        "TYPE_COL": "C",        "DESC_COL": "Compost - Bac brun",        "INFO": null
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Organique",        "MAT_NOM": "Copeaux",        "TYPE_COL": "C",        "DESC_COL": "Compost - Bac brun",        "INFO": null
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Organique",        "MAT_NOM": "Écorces",        "TYPE_COL": "C",        "DESC_COL": "Compost - Bac brun",        "INFO": null
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Organique",        "MAT_NOM": "Fleurs",        "TYPE_COL": "C",        "DESC_COL": "Compost - Bac brun",        "INFO": null
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Organique",        "MAT_NOM": "Plantes et Autre résidus végétaux",        "TYPE_COL": "C",        "DESC_COL": "Compost - Bac brun",        "INFO": "Aiguilles de conifères, retailles de haie, mauvaises herbes, etc."
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Organique",        "MAT_NOM": "Herbe coupée et chaume",        "TYPE_COL": "C",        "DESC_COL": "Compost - Bac brun",        "INFO": null
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Papier et carton",        "MAT_NOM": "Boîtes de livraison de repas",        "TYPE_COL": "C",        "DESC_COL": "Compost - Bac brun",        "INFO": null
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Papier et carton",        "MAT_NOM": "Papiers essuie-mains",        "TYPE_COL": "C",        "DESC_COL": "Compost - Bac brun",        "INFO": null
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Papier et carton",        "MAT_NOM": "Serviettes de table",        "TYPE_COL": "C",        "DESC_COL": "Compost - Bac brun",        "INFO": null
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Organique",        "MAT_NOM": "Plantes d’intérieur incluant le terreau d'empotage",        "TYPE_COL": "C",        "DESC_COL": "Compost - Bac brun",        "INFO": null
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Plastique",        "MAT_NOM": "Sacs compostables, si certifiés BNQ",        "TYPE_COL": "C",        "DESC_COL": "Compost - Bac brun",        "INFO": null
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Verre",        "MAT_NOM": "Vaisselle compostable",        "TYPE_COL": "C",        "DESC_COL": "Compost - Bac brun",        "INFO": "En fécule de maïs par exemple"
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Organique",        "MAT_NOM": "Cendres froides",        "TYPE_COL": "C",        "DESC_COL": "Compost - Bac brun",        "INFO": "Éteintes depuis au moins sept jours"
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Organique",        "MAT_NOM": "Cheveux",        "TYPE_COL": "C",        "DESC_COL": "Compost - Bac brun",        "INFO": null
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Organique",        "MAT_NOM": "Poils d’animaux",        "TYPE_COL": "C",        "DESC_COL": "Compost - Bac brun",        "INFO": null
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Organique",        "MAT_NOM": "Plumes",        "TYPE_COL": "C",        "DESC_COL": "Compost - Bac brun",        "INFO": null
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Organique",        "MAT_NOM": "Litières et excréments d’animaux domestiques",        "TYPE_COL": "C",        "DESC_COL": "Compost - Bac brun",        "INFO": null
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Autre",        "MAT_NOM": "Autocollants plastifiés",        "TYPE_COL": "D",        "DESC_COL": "Bac pour les déchets",        "INFO": null
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Papier et carton",        "MAT_NOM": "Boîtes de jus congelé",        "TYPE_COL": "D",        "DESC_COL": "Bac pour les déchets",        "INFO": null
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Papier et carton",        "MAT_NOM": "Carton ciré",        "TYPE_COL": "D",        "DESC_COL": "Bac pour les déchets",        "INFO": "Boîtes et assiettes de repas congelé, boîtes de crème glacée, etc."
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Papier et carton",        "MAT_NOM": "Contenants en carton enduit d’aluminium ou de plastique",        "TYPE_COL": "D",        "DESC_COL": "Bac pour les déchets",        "INFO": "Ex.: boîtes de cacao ou d’arachides, croustilles ou chips Pringles, etc."
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Papier et carton",        "MAT_NOM": "Papier carbone",        "TYPE_COL": "D",        "DESC_COL": "Bac pour les déchets",        "INFO": null
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Papier et carton",        "MAT_NOM": "Papier ciré",        "TYPE_COL": "D",        "DESC_COL": "Bac pour les déchets",        "INFO": "Incluant les sacs de boîtes de céréales"
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Papier et carton",        "MAT_NOM": "Papier photo",        "TYPE_COL": "D",        "DESC_COL": "Bac pour les déchets",        "INFO": null
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Autre",        "MAT_NOM": "Sacs ou enveloppes composés de plusieurs matières",        "TYPE_COL": "D",        "DESC_COL": "Bac pour les déchets",        "INFO": "Mélange d’aluminium, de plastique et de papie. Ex.: sacs de croustilles ou chips, sacs de biscuits, emballages de barres tendres, de chocolat, de gomme à mâcher ou de nourriture pour animaux, etc."
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Papier et carton",        "MAT_NOM": "Verre en carton pour le café et Autre boissons",        "TYPE_COL": "D",        "DESC_COL": "Bac pour les déchets",        "INFO": null
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Autre",        "MAT_NOM": "Décorations électriques",        "TYPE_COL": "D",        "DESC_COL": "Bac pour les déchets",        "INFO": null
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Métal",        "MAT_NOM": "Moustiquaires",        "TYPE_COL": "D",        "DESC_COL": "Bac pour les déchets",        "INFO": null
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Métal",        "MAT_NOM": "Petit objets en métal",        "TYPE_COL": "D",        "DESC_COL": "Bac pour les déchets",        "INFO": "Moins de 5 cm ou 2 po."
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Plastique",        "MAT_NOM": "Bâches de plastique tissé",        "TYPE_COL": "D",        "DESC_COL": "Bac pour les déchets",        "INFO": null
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Autre",        "MAT_NOM": "Ballons",        "TYPE_COL": "D",        "DESC_COL": "Bac pour les déchets",        "INFO": null
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Autre",        "MAT_NOM": "Jeux gonflables",        "TYPE_COL": "D",        "DESC_COL": "Bac pour les déchets",        "INFO": null
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Autre",        "MAT_NOM": "Emballage de ballots de foin",        "TYPE_COL": "D",        "DESC_COL": "Bac pour les déchets",        "INFO": null
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Plastique",        "MAT_NOM": "Filets d’oignons ou d’oranges",        "TYPE_COL": "D",        "DESC_COL": "Bac pour les déchets",        "INFO": null
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Autre",        "MAT_NOM": "Gants de latex",        "TYPE_COL": "D",        "DESC_COL": "Bac pour les déchets",        "INFO": null
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Autre",        "MAT_NOM": "Guirlandes de Noël",        "TYPE_COL": "D",        "DESC_COL": "Bac pour les déchets",        "INFO": null
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Plastique",        "MAT_NOM": "Nappes en vinyle",        "TYPE_COL": "D",        "DESC_COL": "Bac pour les déchets",        "INFO": null
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Plastique",        "MAT_NOM": "Sacs de plastique souillés",        "TYPE_COL": "D",        "DESC_COL": "Bac pour les déchets",        "INFO": null
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Plastique",        "MAT_NOM": "Pellicules souillées",        "TYPE_COL": "D",        "DESC_COL": "Bac pour les déchets",        "INFO": null
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Autre",        "MAT_NOM": "Sacs et poches tissés",        "TYPE_COL": "D",        "DESC_COL": "Bac pour les déchets",        "INFO": "Ex. : poches de moulée"
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Plastique",        "MAT_NOM": "Toiles de piscine",        "TYPE_COL": "D",        "DESC_COL": "Bac pour les déchets",        "INFO": null
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Autre",        "MAT_NOM": "Emballages composés de plusieurs matières",        "TYPE_COL": "D",        "DESC_COL": "Bac pour les déchets",        "INFO": "Mélange d’aluminium, de plastique et de papie. Ex.: emballages de barres tendres, de chocolat, de gomme à mâcher ou de nourriture pour animaux, etc."
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Plastique",        "MAT_NOM": "Articles de vinyle",        "TYPE_COL": "D",        "DESC_COL": "Bac pour les déchets",        "INFO": null
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Plastique",        "MAT_NOM": "Assiettes en plastique",        "TYPE_COL": "D",        "DESC_COL": "Bac pour les déchets",        "INFO": null
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Plastique",        "MAT_NOM": "Ustensiles en plastique",        "TYPE_COL": "D",        "DESC_COL": "Bac pour les déchets",        "INFO": null
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Autre",        "MAT_NOM": "Balles de golf",        "TYPE_COL": "D",        "DESC_COL": "Bac pour les déchets",        "INFO": null
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Autre",        "MAT_NOM": "Balles de tennis",        "TYPE_COL": "D",        "DESC_COL": "Bac pour les déchets",        "INFO": null
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Autre",        "MAT_NOM": "Balles de baseball",        "TYPE_COL": "D",        "DESC_COL": "Bac pour les déchets",        "INFO": null
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Plastique",        "MAT_NOM": "Cartables",        "TYPE_COL": "D",        "DESC_COL": "Bac pour les déchets",        "INFO": null
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Plastique",        "MAT_NOM": "Chaises et tables de patio (PVC)",        "TYPE_COL": "D",        "DESC_COL": "Bac pour les déchets",        "INFO": null
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Plastique",        "MAT_NOM": "Cintres en plastique",        "TYPE_COL": "D",        "DESC_COL": "Bac pour les déchets",        "INFO": null
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Plastique",        "MAT_NOM": "Emballages moulés",        "TYPE_COL": "D",        "DESC_COL": "Bac pour les déchets",        "INFO": "Ceux qu’on doit ouvrir avec des ciseaux pour dégager l’objet acheté"
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Plastique",        "MAT_NOM": "Pailles en plastique",        "TYPE_COL": "D",        "DESC_COL": "Bac pour les déchets",        "INFO": null
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Plastique",        "MAT_NOM": "Plastique d’ordinateur ou autre appareil en plastique",        "TYPE_COL": "D",        "DESC_COL": "Bac pour les déchets",        "INFO": null
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Plastique",        "MAT_NOM": "Sapins artificiels",        "TYPE_COL": "D",        "DESC_COL": "Bac pour les déchets",        "INFO": null
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Plastique",        "MAT_NOM": "Stores",        "TYPE_COL": "D",        "DESC_COL": "Bac pour les déchets",        "INFO": null
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Autre",        "MAT_NOM": "Tubes de dentifrice",        "TYPE_COL": "D",        "DESC_COL": "Bac pour les déchets",        "INFO": null
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Autre",        "MAT_NOM": "Tuyaux d’arrosage",        "TYPE_COL": "D",        "DESC_COL": "Bac pour les déchets",        "INFO": null
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Métal",        "MAT_NOM": "Tubulure d’érablière",        "TYPE_COL": "D",        "DESC_COL": "Bac pour les déchets",        "INFO": null
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Plastique",        "MAT_NOM": "Tuyaux de plomberie rigides ou souples",        "TYPE_COL": "D",        "DESC_COL": "Bac pour les déchets",        "INFO": "Ex. : carlon, PVC, etc."
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Verre",        "MAT_NOM": "Fibre de verre",        "TYPE_COL": "D",        "DESC_COL": "Bac pour les déchets",        "INFO": null
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Verre",        "MAT_NOM": "Miroirs",        "TYPE_COL": "D",        "DESC_COL": "Bac pour les déchets",        "INFO": null
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Autre",        "MAT_NOM": "Porcelaine",        "TYPE_COL": "D",        "DESC_COL": "Bac pour les déchets",        "INFO": null
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Autre",        "MAT_NOM": "Céramique",        "TYPE_COL": "D",        "DESC_COL": "Bac pour les déchets",        "INFO": null
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Verre",        "MAT_NOM": "Pyrex",        "TYPE_COL": "D",        "DESC_COL": "Bac pour les déchets",        "INFO": null
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Autre",        "MAT_NOM": "Tubes fluorescents",        "TYPE_COL": "D",        "DESC_COL": "Bac pour les déchets",        "INFO": null
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Autre",        "MAT_NOM": "Vaisselle",        "TYPE_COL": "D",        "DESC_COL": "Bac pour les déchets",        "INFO": null
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Verre",        "MAT_NOM": "Verre à boire",        "TYPE_COL": "D",        "DESC_COL": "Bac pour les déchets",        "INFO": null
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Verre",        "MAT_NOM": "Vitre (verre plat)",        "TYPE_COL": "D",        "DESC_COL": "Bac pour les déchets",        "INFO": null
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Papier et carton",        "MAT_NOM": "Boîtes de carton pour aliments et repas congelés",        "TYPE_COL": "D",        "DESC_COL": "Bac pour les déchets",        "INFO": null
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Autre",        "MAT_NOM": "Bouchon de liège",        "TYPE_COL": "D",        "DESC_COL": "Bac pour les déchets",        "INFO": null
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Papier et carton",        "MAT_NOM": "Cartons de crème glacée",        "TYPE_COL": "D",        "DESC_COL": "Bac pour les déchets",        "INFO": null
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Autre",        "MAT_NOM": "Charpie de sécheuse",        "TYPE_COL": "D",        "DESC_COL": "Bac pour les déchets",        "INFO": null
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Autre",        "MAT_NOM": "Feuilles assouplisantes",        "TYPE_COL": "D",        "DESC_COL": "Bac pour les déchets",        "INFO": null
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Autre",        "MAT_NOM": "Cire",        "TYPE_COL": "D",        "DESC_COL": "Bac pour les déchets",        "INFO": null
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Autre",        "MAT_NOM": "Coton-tiges",        "TYPE_COL": "D",        "DESC_COL": "Bac pour les déchets",        "INFO": null
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Autre",        "MAT_NOM": "Feuilles jetables de balai",        "TYPE_COL": "D",        "DESC_COL": "Bac pour les déchets",        "INFO": null
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Organique",        "MAT_NOM": "Gomme   à mâcher",        "TYPE_COL": "D",        "DESC_COL": "Bac pour les déchets",        "INFO": null
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Autre",        "MAT_NOM": "Mégots et cendred de cigarettes",        "TYPE_COL": "D",        "DESC_COL": "Bac pour les déchets",        "INFO": null
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Plastique",        "MAT_NOM": "Plastique sans logo de recyclage",        "TYPE_COL": "D",        "DESC_COL": "Bac pour les déchets",        "INFO": null
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Autre",        "MAT_NOM": "Sacs d'aspiratuer",        "TYPE_COL": "D",        "DESC_COL": "Bac pour les déchets",        "INFO": "Et leurs contenu"
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Autre",        "MAT_NOM": "Sièges d'auto pour enfants",        "TYPE_COL": "D",        "DESC_COL": "Bac pour les déchets",        "INFO": null
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Métal",        "MAT_NOM": "Ustensiles",        "TYPE_COL": "D",        "DESC_COL": "Bac pour les déchets",        "INFO": null
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Plastique",        "MAT_NOM": "Sacs de plastique biodégradables",        "TYPE_COL": "D",        "DESC_COL": "Bac pour les déchets",        "INFO": null
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Plastique",        "MAT_NOM": "Sacs de plastique oxobiodégradables",        "TYPE_COL": "D",        "DESC_COL": "Bac pour les déchets",        "INFO": null
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Autre",        "MAT_NOM": "Tapis, moquette",        "TYPE_COL": "D",        "DESC_COL": "Bac pour les déchets",        "INFO": null
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Autre",        "MAT_NOM": "Matériaux isolants",        "TYPE_COL": "D",        "DESC_COL": "Bac pour les déchets",        "INFO": null
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Organique",        "MAT_NOM": "Feuilles mortes",        "TYPE_COL": "S",        "DESC_COL": "Collectes spéciales",        "INFO": "Écocentre, bac brun pour les matières Organique ou collecte spéciale des feuilles mortes"
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Autre",        "MAT_NOM": "Aérosols",        "TYPE_COL": "O",        "DESC_COL": "Apporter aux écocentres ou collecte de résidus domestiques dangereux",        "INFO": null
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Autre",        "MAT_NOM": "Batteries d'auto",        "TYPE_COL": "O",        "DESC_COL": "Apporter aux écocentres",        "INFO": null
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Métal",        "MAT_NOM": "Cintres",        "TYPE_COL": "O",        "DESC_COL": "Apporter aux écocentres",        "INFO": null
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Métal",        "MAT_NOM": "Fils",        "TYPE_COL": "O",        "DESC_COL": "Apporter aux écocentres",        "INFO": null
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Métal",        "MAT_NOM": "Câbles",        "TYPE_COL": "O",        "DESC_COL": "Apporter aux écocentres",        "INFO": null
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Métal",        "MAT_NOM": "Corde à linge",        "TYPE_COL": "O",        "DESC_COL": "Apporter aux écocentres",        "INFO": null
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Métal",        "MAT_NOM": "Broches en métal",        "TYPE_COL": "O",        "DESC_COL": "Apporter aux écocentres",        "INFO": null
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Métal",        "MAT_NOM": "Contenants de peinture",        "TYPE_COL": "O",        "DESC_COL": "Apporter aux écocentres ou collecte de résidus domestiques dangereux",        "INFO": null
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Autre",        "MAT_NOM": "Décapant",        "TYPE_COL": "O",        "DESC_COL": "Apporter aux écocentres ou collecte de résidus domestiques dangereux",        "INFO": null
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Autre",        "MAT_NOM": "Matières dangereuses",        "TYPE_COL": "O",        "DESC_COL": "Apporter aux écocentres ou collecte de résidus domestiques dangereux",        "INFO": null
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Métal",        "MAT_NOM": "Fils électriques",        "TYPE_COL": "O",        "DESC_COL": "Apporter aux écocentres",        "INFO": null
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Métal",        "MAT_NOM": "Pièces de métal de plus de",        "TYPE_COL": "O",        "DESC_COL": "Apporter aux écocentres",        "INFO": "2 kg (4,4 lbs), longueur min. : 5 cm (2 po), longueur max. : 60 cm (24 po)."
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Métal",        "MAT_NOM": "Aluminium",        "TYPE_COL": "O",        "DESC_COL": "Apporter aux écocentres",        "INFO": null
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Autre",        "MAT_NOM": "Contenants d’huile à moteur",        "TYPE_COL": "O",        "DESC_COL": "Apporter aux écocentres",        "INFO": null
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Autre",        "MAT_NOM": "Contenants de térébenthine",        "TYPE_COL": "O",        "DESC_COL": "Apporter aux écocentres",        "INFO": null
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Autre",        "MAT_NOM": "Contenants d'essence",        "TYPE_COL": "O",        "DESC_COL": "Apporter aux écocentres",        "INFO": null
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Autre",        "MAT_NOM": "Contenants de produits dangereux",        "TYPE_COL": "O",        "DESC_COL": "Apporter aux écocentres",        "INFO": null
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Plastique",        "MAT_NOM": "Contenants de plastique portant le numéro 6",        "TYPE_COL": "O",        "DESC_COL": "Apporter aux écocentres",        "INFO": "Ex.: polystyrène et styromousse"
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Plastique",        "MAT_NOM": "Cordes de nylon",        "TYPE_COL": "O",        "DESC_COL": "Apporter aux écocentres",        "INFO": null
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Autre",        "MAT_NOM": "Styromousse",        "TYPE_COL": "O",        "DESC_COL": "Apporter aux écocentres",        "INFO": "Ex. : barquettes de viande, emballages, résidus de construction, etc."
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Autre",        "MAT_NOM": "Ampoules électriques",        "TYPE_COL": "O",        "DESC_COL": "Apporter aux écocentres",        "INFO": null
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Autre",        "MAT_NOM": "Bois et branches",        "TYPE_COL": "O",        "DESC_COL": "Apporter aux écocentres",        "INFO": "Écocentre ou collecte spéciale de bois"
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Autre",        "MAT_NOM": "Pneaus d'automobile ou de vélo",        "TYPE_COL": "O",        "DESC_COL": "Apporter aux écocentres",        "INFO": "Sans jante"
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Autre",        "MAT_NOM": "Bois de construction",        "TYPE_COL": "O",        "DESC_COL": "Apporter aux écocentres",        "INFO": "Naturel, traité ou peint"
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Verre",        "MAT_NOM": "Miroirs",        "TYPE_COL": "O",        "DESC_COL": "Apporter aux écocentres",        "INFO": null
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Autre",        "MAT_NOM": "Céramique",        "TYPE_COL": "O",        "DESC_COL": "Apporter aux écocentres",        "INFO": null
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Autre",        "MAT_NOM": "Bardeaux",        "TYPE_COL": "O",        "DESC_COL": "Apporter aux écocentres",        "INFO": null
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Autre",        "MAT_NOM": "Gyspse",        "TYPE_COL": "O",        "DESC_COL": "Apporter aux écocentres",        "INFO": null
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Autre",        "MAT_NOM": "Portes",        "TYPE_COL": "O",        "DESC_COL": "Apporter aux écocentres",        "INFO": null
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Autre",        "MAT_NOM": "Fenêtres",        "TYPE_COL": "O",        "DESC_COL": "Apporter aux écocentres",        "INFO": null
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Autre",        "MAT_NOM": "Matériaux de construction",        "TYPE_COL": "O",        "DESC_COL": "Apporter aux écocentres",        "INFO": "Dimension maximale de 1,2 m sur 2,4 m (4 pi sur 8 pi)."
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Autre",        "MAT_NOM": "Toilettes",        "TYPE_COL": "O",        "DESC_COL": "Apporter aux écocentres",        "INFO": null
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Autre",        "MAT_NOM": "Éviers en porcelaine,",        "TYPE_COL": "O",        "DESC_COL": "Apporter aux écocentres",        "INFO": null
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Autre",        "MAT_NOM": "Pesticides",        "TYPE_COL": "O",        "DESC_COL": "Apporter aux écocentres",        "INFO": null
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Autre",        "MAT_NOM": "Gravier de rue",        "TYPE_COL": "O",        "DESC_COL": "Apporter aux écocentres",        "INFO": null
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Autre",        "MAT_NOM": "Pierres",        "TYPE_COL": "O",        "DESC_COL": "Apporter aux écocentres",        "INFO": null
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Autre",        "MAT_NOM": "Roches",        "TYPE_COL": "O",        "DESC_COL": "Apporter aux écocentres",        "INFO": null
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Organique",        "MAT_NOM": "Terre",        "TYPE_COL": "O",        "DESC_COL": "Apporter aux écocentres",        "INFO": "Non contaminée."
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Autre",        "MAT_NOM": "Tourbe",        "TYPE_COL": "O",        "DESC_COL": "Apporter aux écocentres",        "INFO": null
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Autre",        "MAT_NOM": "Gazon",        "TYPE_COL": "O",        "DESC_COL": "Apporter aux écocentres",        "INFO": "Le gazon est accepté trois fois par année seulement. Ensuite, il est refusé."
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Autre",        "MAT_NOM": "Béton",        "TYPE_COL": "O",        "DESC_COL": "Apporter aux écocentres",        "INFO": null
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Autre",        "MAT_NOM": "Briques",        "TYPE_COL": "O",        "DESC_COL": "Apporter aux écocentres",        "INFO": null
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Autre",        "MAT_NOM": "Asphalte",        "TYPE_COL": "O",        "DESC_COL": "Apporter aux écocentres",        "INFO": null
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Plastique",        "MAT_NOM": "Ordinateur",        "TYPE_COL": "O",        "DESC_COL": "Apporter aux écocentres",        "INFO": "Moniteurs, tours, claviers et souris"
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Autre",        "MAT_NOM": "Imprimante",        "TYPE_COL": "O",        "DESC_COL": "Apporter aux écocentres",        "INFO": null
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Autre",        "MAT_NOM": "Photocopieur",        "TYPE_COL": "O",        "DESC_COL": "Apporter aux écocentres",        "INFO": null
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Autre",        "MAT_NOM": "Télécopieurs",        "TYPE_COL": "O",        "DESC_COL": "Apporter aux écocentres",        "INFO": null
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Autre",        "MAT_NOM": "Téléviseurs",        "TYPE_COL": "O",        "DESC_COL": "Apporter aux écocentres",        "INFO": null
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Autre",        "MAT_NOM": "Radio",        "TYPE_COL": "O",        "DESC_COL": "Apporter aux écocentres",        "INFO": null
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Autre",        "MAT_NOM": "Cartouches",        "TYPE_COL": "O",        "DESC_COL": "Apporter aux écocentres",        "INFO": null
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Autre",        "MAT_NOM": "Lecteurs",        "TYPE_COL": "O",        "DESC_COL": "Apporter aux écocentres",        "INFO": "Vhs. CD, DVD"
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Autre",        "MAT_NOM": "Téléphonnes",        "TYPE_COL": "O",        "DESC_COL": "Apporter aux écocentres",        "INFO": null
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Autre",        "MAT_NOM": "Cellulaires",        "TYPE_COL": "O",        "DESC_COL": "Apporter aux écocentres",        "INFO": null
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Autre",        "MAT_NOM": "Appareils photos",        "TYPE_COL": "O",        "DESC_COL": "Apporter aux écocentres",        "INFO": "Et leurs boîtiers"
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Plastique",        "MAT_NOM": "CD",        "TYPE_COL": "O",        "DESC_COL": "Apporter aux écocentres",        "INFO": "Et leurs boîtiers"
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Plastique",        "MAT_NOM": "DVD",        "TYPE_COL": "O",        "DESC_COL": "Apporter aux écocentres",        "INFO": null
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Autre",        "MAT_NOM": "Piles",        "TYPE_COL": "O",        "DESC_COL": "Apporter aux écocentres",        "INFO": "Couvrir les pôles à l'aide de papier isolant (comme du ruban électique)."
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Papier et carton",        "MAT_NOM": "Boîtes d’aliments congelés (non cirés)",        "TYPE_COL": "R",        "DESC_COL": "Bac de récupération",        "INFO": null
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Papier et carton",        "MAT_NOM": "Cartons à jus à intérieur d’aluminium  (Tetra Pack)",        "TYPE_COL": "R",        "DESC_COL": "Bac de récupération",        "INFO": null
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Papier et carton",        "MAT_NOM": "Cartons de lait",        "TYPE_COL": "R",        "DESC_COL": "Bac de récupération",        "INFO": null
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Papier et carton",        "MAT_NOM": "Cartons de jus",        "TYPE_COL": "R",        "DESC_COL": "Bac de récupération",        "INFO": "Sans la paille"
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Papier et carton",        "MAT_NOM": "Journaux",        "TYPE_COL": "R",        "DESC_COL": "Bac de récupération",        "INFO": null
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Papier et carton",        "MAT_NOM": "Journaux",        "TYPE_COL": "R",        "DESC_COL": "Bac de récupération",        "INFO": null
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Papier et carton",        "MAT_NOM": "Magazines",        "TYPE_COL": "R",        "DESC_COL": "Bac de récupération",        "INFO": null
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Papier et carton",        "MAT_NOM": "Feuillets publicitaires",        "TYPE_COL": "R",        "DESC_COL": "Bac de récupération",        "INFO": "Retirer les circulaires et les journaux du Publi-Sac"
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Papier et carton",        "MAT_NOM": "Papier à lettres",        "TYPE_COL": "R",        "DESC_COL": "Bac de récupération",        "INFO": null
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Papier et carton",        "MAT_NOM": "Enveloppes",        "TYPE_COL": "R",        "DESC_COL": "Bac de récupération",        "INFO": null
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Papier et carton",        "MAT_NOM": "Livres",        "TYPE_COL": "R",        "DESC_COL": "Bac de récupération",        "INFO": null
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Papier et carton",        "MAT_NOM": "Papier déchiqueté",        "TYPE_COL": "R",        "DESC_COL": "Bac de récupération",        "INFO": "Regroupé dans un sac transparent et noué."
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Papier et carton",        "MAT_NOM": "Papier",        "TYPE_COL": "R",        "DESC_COL": "Bac de récupération",        "INFO": null
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Papier et carton",        "MAT_NOM": "Sacs bruns",        "TYPE_COL": "R",        "DESC_COL": "Bac de récupération",        "INFO": "Utilisez le bac brun pour le papier et le carton souillés."
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Papier et carton",        "MAT_NOM": "Boîtes de carton ondulé",        "TYPE_COL": "R",        "DESC_COL": "Bac de récupération",        "INFO": "Grandeur maximum : 60 cm sur 90 cm ou 2 pi sur 3 pi."
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Papier et carton",        "MAT_NOM": "Carton plat",        "TYPE_COL": "R",        "DESC_COL": "Bac de récupération",        "INFO": "Grandeur maximum : 60 cm sur 90 cm ou 2 pi sur 3 pi."
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Papier et carton",        "MAT_NOM": "Boîtes de savon à lessive",        "TYPE_COL": "R",        "DESC_COL": "Bac de récupération",        "INFO": null
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Papier et carton",        "MAT_NOM": "Carton ondulé à l’intérieur emballages de biscuits",        "TYPE_COL": "R",        "DESC_COL": "Bac de récupération",        "INFO": null
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Papier et carton",        "MAT_NOM": "Boîtes à boire",        "TYPE_COL": "R",        "DESC_COL": "Bac de récupération",        "INFO": null
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Papier et carton",        "MAT_NOM": "Cartons de jus en portion individuelle",        "TYPE_COL": "R",        "DESC_COL": "Bac de récupération",        "INFO": null
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Papier et carton",        "MAT_NOM": "Bottins téléphoniques",        "TYPE_COL": "R",        "DESC_COL": "Bac de récupération",        "INFO": null
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Papier et carton",        "MAT_NOM": "Nappes en papier non souillées",        "TYPE_COL": "R",        "DESC_COL": "Bac de récupération",        "INFO": null
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Papier et carton",        "MAT_NOM": "Papier à lettres",        "TYPE_COL": "R",        "DESC_COL": "Bac de récupération",        "INFO": null
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Papier et carton",        "MAT_NOM": "Enveloppes",        "TYPE_COL": "R",        "DESC_COL": "Bac de récupération",        "INFO": null
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Papier et carton",        "MAT_NOM": "Papier d’emballage de papier à photocopie",        "TYPE_COL": "R",        "DESC_COL": "Bac de récupération",        "INFO": null
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Papier et carton",        "MAT_NOM": "Papier d’emballages cadeaux (non métallique)",        "TYPE_COL": "R",        "DESC_COL": "Bac de récupération",        "INFO": null
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Papier et carton",        "MAT_NOM": "Papier de soie",        "TYPE_COL": "R",        "DESC_COL": "Bac de récupération",        "INFO": null
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Papier et carton",        "MAT_NOM": "Papier brun",        "TYPE_COL": "R",        "DESC_COL": "Bac de récupération",        "INFO": null
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Métal",        "MAT_NOM": "Papier d’aluminium propres",        "TYPE_COL": "R",        "DESC_COL": "Bac de récupération",        "INFO": "Regrouper dans une boule compacte"
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Métal",        "MAT_NOM": "Boîtes de conserve",        "TYPE_COL": "R",        "DESC_COL": "Bac de récupération",        "INFO": "Les étiquettes peuvent être laissées sur les boîtes de conserve. Rincer les contenants."
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Métal",        "MAT_NOM": "Cannettes d’aluminium",        "TYPE_COL": "R",        "DESC_COL": "Bac de récupération",        "INFO": "Rincer les contenants."
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Métal",        "MAT_NOM": "Couvercles de métal",        "TYPE_COL": "R",        "DESC_COL": "Bac de récupération",        "INFO": null
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Métal",        "MAT_NOM": "Assiettes d’aluminium propres",        "TYPE_COL": "R",        "DESC_COL": "Bac de récupération",        "INFO": null
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Métal",        "MAT_NOM": "Casseroles en métal",        "TYPE_COL": "R",        "DESC_COL": "Bac de récupération",        "INFO": null
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Métal",        "MAT_NOM": "Grille-pain",        "TYPE_COL": "R",        "DESC_COL": "Bac de récupération",        "INFO": "Sans le cordon d'alimentation électrique"
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Métal",        "MAT_NOM": "Petits appareils électriques",        "TYPE_COL": "R",        "DESC_COL": "Bac de récupération",        "INFO": "Sans le cordon d'alimentation électrique"
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Métal",        "MAT_NOM": "Pièces de métal",        "TYPE_COL": "R",        "DESC_COL": "Bac de récupération",        "INFO": "Poids max : 2 kg (4,4 lbs), longueur min. : 5 cm (2 po), longueur max. : 60 cm (24 po)."
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Plastique",        "MAT_NOM": "Emballages",        "TYPE_COL": "R",        "DESC_COL": "Bac de récupération",        "INFO": null
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Plastique",        "MAT_NOM": "Pellicules de plastique propres,…ensachés",        "TYPE_COL": "R",        "DESC_COL": "Bac de récupération",        "INFO": "Ex. : emballages de fromage, de papier de toilette, Saran wrap, etc."
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Plastique",        "MAT_NOM": "Sacs d’épicerie",        "TYPE_COL": "R",        "DESC_COL": "Bac de récupération",        "INFO": "Ensacher tous les Plastique dans un sac en plastique noué"
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Plastique",        "MAT_NOM": "Sacs de magasinage",        "TYPE_COL": "R",        "DESC_COL": "Bac de récupération",        "INFO": "Ensacher tous les Plastique dans un sac en plastique noué"
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Plastique",        "MAT_NOM": "Sacs de lait",        "TYPE_COL": "R",        "DESC_COL": "Bac de récupération",        "INFO": "Ensacher tous les Plastique dans un sac en plastique noué"
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Plastique",        "MAT_NOM": "Sacs de pain",        "TYPE_COL": "R",        "DESC_COL": "Bac de récupération",        "INFO": "Ensacher tous les Plastique dans un sac en plastique noué"
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Plastique",        "MAT_NOM": "Nappes en plastique à usage unique",        "TYPE_COL": "R",        "DESC_COL": "Bac de récupération",        "INFO": "Nettoyées (mais pas celles en vinyle)"
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Plastique",        "MAT_NOM": "Papier bulle pour emballage",        "TYPE_COL": "R",        "DESC_COL": "Bac de récupération",        "INFO": "Ensacher tous les Plastique dans un sac en plastique noué"
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Plastique",        "MAT_NOM": "Polythène propre",        "TYPE_COL": "R",        "DESC_COL": "Bac de récupération",        "INFO": "Exempt de peinture ou d’huile"
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Plastique",        "MAT_NOM": "Sacs à sandwich",        "TYPE_COL": "R",        "DESC_COL": "Bac de récupération",        "INFO": "Ensacher tous les Plastique dans un sac en plastique noué"
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Plastique",        "MAT_NOM": "Jouets de plastique sans aucune pièce de métal",        "TYPE_COL": "R",        "DESC_COL": "Bac de récupération",        "INFO": null
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Plastique",        "MAT_NOM": "Tous les articles de plastique",        "TYPE_COL": "R",        "DESC_COL": "Bac de récupération",        "INFO": "Portant à l’intérieur d’un triangle,  les chiffres 1 à 7 (sauf le numéro 6)"
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Plastique",        "MAT_NOM": "Contenants de produits alimentaires",        "TYPE_COL": "R",        "DESC_COL": "Bac de récupération",        "INFO": "Portant à l’intérieur d’un triangle,  les chiffres 1 à 7 (sauf le numéro 6)"
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Plastique",        "MAT_NOM": "Contenants de produits ménagers",        "TYPE_COL": "R",        "DESC_COL": "Bac de récupération",        "INFO": "Portant à l’intérieur d’un triangle,  les chiffres 1 à 7 (sauf le numéro 6)"
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Plastique",        "MAT_NOM": "Contenants de produits cosmétiques",        "TYPE_COL": "R",        "DESC_COL": "Bac de récupération",        "INFO": "Portant à l’intérieur d’un triangle,  les chiffres 1 à 7 (sauf le numéro 6)"
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Plastique",        "MAT_NOM": "Bouteilles en plastique",        "TYPE_COL": "R",        "DESC_COL": "Bac de récupération",        "INFO": "Laisser les bouchons en plastique sur les bouteilles"
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Plastique",        "MAT_NOM": "Couvercles en plastique",        "TYPE_COL": "R",        "DESC_COL": "Bac de récupération",        "INFO": null
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Plastique",        "MAT_NOM": "Seaux en plastique propres",        "TYPE_COL": "R",        "DESC_COL": "Bac de récupération",        "INFO": null
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Verre",        "MAT_NOM": "Bouteilles en verre clair ou de couleur",        "TYPE_COL": "R",        "DESC_COL": "Bac de récupération",        "INFO": "Avec ou sans étiquettes. Récupérez le couvercle séparément. Rincer les contenants."
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Verre",        "MAT_NOM": "Pots",        "TYPE_COL": "R",        "DESC_COL": "Bac de récupération",        "INFO": "Avec ou sans étiquettes. Récupérez le couvercle séparément. Rincer les contenants."
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Verre",        "MAT_NOM": "Flacons",        "TYPE_COL": "R",        "DESC_COL": "Bac de récupération",        "INFO": "Avec ou sans étiquettes. Récupérez le couvercle séparément. Rincer les contenants."
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Organique",        "MAT_NOM": "Sapins naturels",        "TYPE_COL": "S",        "DESC_COL": "Collectes spéciales",        "INFO": "Ne couvrez pas votre sapin d’une housse de plastique. Enlevez toutes les décorations."
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Papier et carton",        "MAT_NOM": "Boîtes de carton de déménagement",        "TYPE_COL": "S",        "DESC_COL": "Collectes spéciales",        "INFO": "Ou écocentre. Défaites les boîtes et empilez-les à côté des bacs roulants. Respectez les dimensions maximales de 90 cm sur 90 cm (3 pi sur 3 pi)."
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Organique",        "MAT_NOM": "Animaux morts",        "TYPE_COL": "A",        "DESC_COL": "Autres - Matières spécifiques",        "INFO": "Communiquez avec Cremanimo, au 819 347-3434 ou avec Récupération Maillé, au 819 847-4907."
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Autre",        "MAT_NOM": "Médicaments périmés",        "TYPE_COL": "A",        "DESC_COL": "Autres - Matières spécifiques",        "INFO": "Rapporter à la pharmacie"
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Autre",        "MAT_NOM": "Munitions",        "TYPE_COL": "A",        "DESC_COL": "Autres - Matières spécifiques",        "INFO": "Rendez-vous à la Sûreté du Québec."
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Autre",        "MAT_NOM": "Pneus avec jantes",        "TYPE_COL": "A",        "DESC_COL": "Autres - Matières spécifiques",        "INFO": "Rendez-vous dans un garage."
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Autre",        "MAT_NOM": "Pneus de véhicules Autre qu’automobiles",        "TYPE_COL": "A",        "DESC_COL": "Autres - Matières spécifiques",        "INFO": "Rendez-vous dans un garage spécialisé."
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Autre",        "MAT_NOM": "Résidus dangereux d’origine commerciale ou industrielle",        "TYPE_COL": "A",        "DESC_COL": "Autres - Matières spécifiques",        "INFO": "Communiquez avec : Véolia Environnement, au 819 822-1820 ou FEC Technologie, au 819 843-3550 ou J. Beauclair Métal Environnement, au 819 820-5078."
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Organique",        "MAT_NOM": "Tailles de haies de cèdres en grande quantité",        "TYPE_COL": "A",        "DESC_COL": "Autres - Matières spécifiques",        "INFO": "Communiquez avec Récupérateur de tailles de cèdre, au 819 875-3027."
+      },      {
+        "MUNID": "43027",        "MAT_CAT": "Organique",        "MAT_NOM": "Terre contaminée",        "TYPE_COL": "A",        "DESC_COL": "Autres - Matières spécifiques",        "INFO": "Communiquez avec GSI Environnement, au 819 829-0101."
+      }
+    ]
+  }
+}
